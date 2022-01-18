@@ -132,3 +132,5 @@ There has been an exponential growth in meta-learning algorithms and it's easy t
 [Few-Shot Image Classification](https://www.kdnuggets.com/2020/03/few-shot-image-classification-meta-learning.html) with Meta-Learning
 
 [Meta-Learning: Learning to Learn in Neural Networks](https://medium.com/analytics-vidhya/meta-learning-learning-to-learn-in-neural-networks-843f10408493)
+
+Personal Link --> https://www.linkedin.com/in/revanth1998
